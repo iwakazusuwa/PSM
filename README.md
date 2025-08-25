@@ -1,10 +1,8 @@
-# Van Westendorp PSM 分析アプリ
+vanwestendorp-psm-ui-mit
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-orange)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-Van Westendorpの価格感度モデル（PSM）をPython＋Streamlitで可視化するインタラクティブアプリです。
 
 
 Van Westendorpの価格感度モデル（PSM）をPython＋Streamlitで再現したインタラクティブアプリです。  
